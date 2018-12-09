@@ -1,0 +1,43 @@
+@font-face {
+font-family: 'AvenirNextCur_Regular';
+src: url('fonts/Avenir_Next_regular/AvenirNextCyr-Regular.eot');
+src: url('fonts/Avenir_Next_regular/AvenirNextCyr-Regular.eot?#iefix') format('embedded-opentype'),
+url('fonts/Avenir_Next_regular/AvenirNextCyr-Regular.woff2') format('woff2'),
+url('fonts/Avenir_Next_regular/AvenirNextCyr-Regular.woff') format('woff'),
+url('fonts/Avenir_Next_regular/AvenirNextCyr-Regular.ttf') format('truetype');
+font-weight: normal;
+font-style: normal;
+}
+
+@font-face {
+font-family: 'AvenirNextCur_Bold';
+src: url('fonts/Avenir_Next_bold/AvenirNextCyr-Bold.eot');
+src: url('fonts/Avenir_Next_bold/AvenirNextCyr-Bold.eot?#iefix') format('embedded-opentype'),
+url('fonts/Avenir_Next_bold/AvenirNextCyr-Bold.woff2') format('woff2'),
+url('fonts/Avenir_Next_bold/AvenirNextCyr-Bold.woff') format('woff'),
+url('fonts/Avenir_Next_bold/AvenirNextCyr-Bold.ttf') format('truetype');
+font-weight: bold;
+font-style: normal;
+}
+
+@font-face {
+font-family: 'Merriweather_regular';
+src: url('fonts/Merriweather_regular/merriweather-regular.eot');
+src: url('fonts/Merriweather_regular/merriweather-regular.eot?#iefix') format('embedded-opentype'),
+url('fonts/Merriweather_regular/merriweather-regular.woff2') format('woff2'),
+url('fonts/Merriweather_regular/merriweather-regular.woff') format('woff'),
+url('fonts/Merriweather_regular/merriweather-regular.ttf') format('truetype');
+font-weight: normal;
+font-style: normal;
+}
+
+@font-face {
+font-family: 'AvenirNextCur_Demi';
+src: url('fonts/Avenir_Next_demi/avenirnextcyr-demi.eot');
+src: url('fonts/Avenir_Next_demi/avenirnextcyr-demi.eot?#iefix') format('embedded-opentype'),
+url('fonts/Avenir_Next_demi/avenirnextcyr-demi.woff2') format('woff2'),
+url('fonts/Avenir_Next_demi/avenirnextcyr-demi.woff') format('woff'),
+url('fonts/Avenir_Next_demi/avenirnextcyr-demi.ttf') format('truetype');
+font-weight: normal;
+font-style: normal;
+}
